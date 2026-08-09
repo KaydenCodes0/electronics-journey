@@ -1,12 +1,12 @@
-#Traffic Light LED
+# Traffic Light LED
 
 My second beginner electronics project!
 
-##What I Built
+## What I Built
 
 I made a Traffic Light system using 3 LED's, each LED turning on for a set duration before turning back off
 
-##Components
+## Components
 
 -Arduino
 -LED (Red, Yellow, Green)

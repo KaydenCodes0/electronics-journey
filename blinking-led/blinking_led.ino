@@ -1,0 +1,15 @@
+//C++
+
+int ledPIN = 7;
+
+void setup() {
+  pinMode(ledPIN,OUTPUT);
+}
+
+void loop() {
+  digitalWrite(ledPIN, HIGH);
+  delay(1000);
+  
+  digitalWrite(ledPIN,LOW);
+  delay(1000);
+}
